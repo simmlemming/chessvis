@@ -6,4 +6,3 @@ b = Board()
 b.draw(win)
 
 win.mainloop()
-
